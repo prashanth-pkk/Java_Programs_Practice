@@ -1,4 +1,4 @@
-package org.string;
+package org.strings;
 
 import java.util.Locale;
 import java.util.Scanner;

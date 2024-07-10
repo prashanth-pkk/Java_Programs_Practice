@@ -1,10 +1,8 @@
-// wrtjp to check whether number is positive or not
-
-package org.example;
+package org.programs;
 
 import java.util.Scanner;
 
-public class Main {
+public class PositiveNumberOrNot {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter the number");

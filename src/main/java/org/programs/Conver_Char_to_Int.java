@@ -1,4 +1,4 @@
-package org.example;
+package org.programs;
 
 /*
 Convert char to int
